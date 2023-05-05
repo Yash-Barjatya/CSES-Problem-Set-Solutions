@@ -1,10 +1,10 @@
 # CSES Solutions
 
-Over 280 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Yash Barjatya[(YBarJain)](https://cses.fi/user/153003). As of May'23, the following number of solutions have been completed:
+Over 11 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Yash Barjatya[(YBarJain)](https://cses.fi/user/153003). As of May'23, the following number of solutions have been completed:
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
-| Introductory Problems |     7/19      |
+| Introductory Problems |    11/19      |
 | Sorting and Searching |     0/35      |
 | Dynamic Programming   |     0/19      |
 | Graph Algorithms      |     0/36      |
