@@ -5,7 +5,7 @@ Over 11 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |    11/19      |
-| Sorting and Searching |     0/35      |
+| Sorting and Searching |     8/35      |
 | Dynamic Programming   |     0/19      |
 | Graph Algorithms      |     0/36      |
 | Range Queries         |     0/19      |
