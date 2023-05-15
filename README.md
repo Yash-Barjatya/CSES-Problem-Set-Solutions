@@ -1,12 +1,12 @@
 # CSES Solutions
 
-Over 11 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Yash Barjatya[(YBarJain)](https://cses.fi/user/153003). As of May'23, the following number of solutions have been completed:
+Over 23 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/), written in C++ by Yash Barjatya[(YBarJain)](https://cses.fi/user/153003). As of May'23, the following number of solutions have been completed:
 
 | Problem Type          | Number Solved |
 |-----------------------|:-------------:|
 | Introductory Problems |    11/19      |
 | Sorting and Searching |     8/35      |
-| Dynamic Programming   |     0/19      |
+| Dynamic Programming   |     4/19      |
 | Graph Algorithms      |     0/36      |
 | Range Queries         |     0/19      |
 | Tree Algorithms       |     0/16      |
@@ -82,3 +82,29 @@ Over 11 accepted solutions to the [CSES Problem Set](https://cses.fi/problemset/
 | [Sliding Cost](https://cses.fi/problemset/task/1077/)             |  [Sliding Cost.cpp](/Sorting%20and%20Searching/Sliding%20Cost.cpp)
 | [Movie Festival II](https://cses.fi/problemset/task/1632/)        | [Movie Festival II.cpp](/Sorting%20and%20Searching/Movie%20Festival%20II.cpp)
 | [Maximum Subarray Sum II](https://cses.fi/problemset/task/1644/)  |  [Maximum Subarray Sum II.cpp](/Sorting%20and%20Searching/Maximum%20Subarray%20Sum%20II.cpp)
+
+
+
+## Dynamic Programming
+
+| Task                                                            | Solution                 |
+| --------------------------------------------------------------- | ------------------------ |
+| [Dice Combinations](https://cses.fi/problemset/task/1633/)      | [Dice Combinations.cpp](/Dynamic%20Programming/Dice%20Combinations.cpp) |
+| [Minimizing Coins](https://cses.fi/problemset/task/1634/)       | [Minimizing Coins.cpp](/Dynamic%20Programming/Minimizing%20Coins.cpp) |
+| [Coin Combinations I](https://cses.fi/problemset/task/1635/)    | [Coin Combinations I.cpp](/Dynamic%20Programming/Coin%20Combinations%20I.cpp) |
+| [Coin Combinations II](https://cses.fi/problemset/task/1636/)   | [Coin Combinations II.cpp](/Dynamic%20Programming/Coin%20Combinations%20II.cpp) |
+| [Removing Digits](https://cses.fi/problemset/task/1637/)        | [Removing Digits.cpp](/Dynamic%20Programming/Removing%20Digits%20I.cpp) |
+| [Grid Paths](https://cses.fi/problemset/task/1638/)             | [Grid Paths.cpp](/Dynamic%20Programming/Grid%20Paths%20II.cpp) |
+| [Book Shop](https://cses.fi/problemset/task/1158/)              | [Book Shop.cpp](/Dynamic%20Programming/Book%20Shop%20I.cpp) |
+| [Array Description](https://cses.fi/problemset/task/1746/)      | [Array Description.cpp](/Dynamic%20Programming/Array%20Description.cpp) |
+| [Counting Towers](https://cses.fi/problemset/task/2413/)        | [Counting Towers.cpp](/Dynamic%20Programming/Counting%20Towers.cpp) |
+| [Edit Distance](https://cses.fi/problemset/task/1639/)          | [Edit Distance.cpp](/Dynamic%20Programming/Edit%20Distance.cpp) |
+| [Rectangle Cutting](https://cses.fi/problemset/task/1744/)      | [Rectangle Cutting.cpp](/Dynamic%20Programming/Rectangle%20Cutting.cpp) |
+| [Money Sums](https://cses.fi/problemset/task/1745/)             | [Money Sums.cpp](/Dynamic%20Programming/Money%20Sums.cpp) |
+| [Removal Game](https://cses.fi/problemset/task/1097/)           | [Removal Game.cpp](/Dynamic%20Programming/Removal%20Game.cpp) |
+| [Two Sets II](https://cses.fi/problemset/task/1093/)            | [Two Sets II.cpp](/Dynamic%20Programming/Two%20Sets%20II.cpp) |
+| [Increasing Subsequence](https://cses.fi/problemset/task/1145/) | [Increasing Subsequence.cpp](/Dynamic%20Programming/Increasing%20Subsequence.cpp) |
+| [Projects](https://cses.fi/problemset/task/1140/)               | [Projects.cpp](/Dynamic%20Programming/Projects.cpp) |
+| [Elevator Rides](https://cses.fi/problemset/task/1653/)         | [Elevator Rides.cpp](/Dynamic%20Programming/Elevator%20Rides.cpp) |
+| [Counting Tilings](https://cses.fi/problemset/task/2181/)       | [Counting Tilings.cpp](/Dynamic%20Programming/Counting%20Tilings.cpp) |
+| [Counting Numbers](https://cses.fi/problemset/task/2220/)       | [Counting Numbers.cpp](/Dynamic%20Programming/Counting%20Numbers.cpp) |
